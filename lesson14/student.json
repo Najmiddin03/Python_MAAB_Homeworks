@@ -1,0 +1,50 @@
+{
+    "Students": [
+        {
+            "id": 1,
+            "name": "samandar",
+            "age": 21,
+            "pets": ["dogs", "cats", "bird"],
+            "FamilyMembers": [
+                {
+                    "name": "john",
+                    "age": 28,
+                    "relative": "Brothers"
+                },
+                {
+                    "name": "sara",
+                    "age": 30,
+                    "relative": "Sisters"
+                },
+                {
+                    "name": "alex",
+                    "age": 28,
+                    "relative": "uncle"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "nodir",
+            "age": 21,
+            "pets": ["dogs", "cats", "bird"],
+            "FamilyMembers": [
+                {
+                    "name": "john",
+                    "age": 28,
+                    "relative": "Brothers"
+                },
+                {
+                    "name": "sara",
+                    "age": 30,
+                    "relative": "Sisters"
+                },
+                {
+                    "name": "alex",
+                    "age": 28,
+                    "relative": "uncle"
+                }
+            ]
+        }
+    ]
+}
